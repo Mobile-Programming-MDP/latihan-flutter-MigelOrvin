@@ -25,7 +25,7 @@ class LatihanScreen extends StatelessWidget {
               ),
               Image.asset("images/logo.png",
                   height: 250, width: double.infinity, fit: BoxFit.scaleDown),
-              const Text("Universitas Multi Data Palembang",
+              const Text( "Universitas Multi Data Palembang",
                   style: TextStyle(fontWeight: FontWeight.bold, fontSize: 21)),
               const SizedBox(
                 height: 8,
