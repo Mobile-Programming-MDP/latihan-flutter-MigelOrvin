@@ -79,7 +79,7 @@ class _MainScreenState extends State<MainScreen> {
                 _currenIndex = index;
               });
             },
-            selectedItemColor:Colors.deepPurple,
+            selectedItemColor: Colors.deepPurple,
             unselectedItemColor: Colors.deepPurple[100],
             showUnselectedLabels: true,
           )),
